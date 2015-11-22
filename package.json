@@ -1,0 +1,27 @@
+{
+  "name": "rgrjs",
+  "version": "1.0.0",
+  "description": "A collection of educational resources about React, GraphQL, and Relay",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgrjs/rgrjs.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgrjs/rgrjs.com/issues"
+  },
+  "homepage": "https://github.com/rgrjs/rgrjs.com#readme",
+  "dependencies": {
+    "babel": "^5.8.29",
+    "babel-core": "^5.8.29",
+    "babel-loader": "^5.3.2",
+    "express": "^4.13.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "webpack": "^1.12.9"
+  }
+}
