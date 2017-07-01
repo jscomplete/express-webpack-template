@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of educational resources about React, GraphQL, and Relay",
   "scripts": {
-    "start": "./node_modules/.bin/babel-node --presets react,es2015 server.js"
+    "start": "nodemon --exec \"babel-node --presets react,es2015\" server.js"
   },
   "repository": {
     "type": "git",
